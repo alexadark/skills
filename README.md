@@ -10,6 +10,8 @@ A collection of [Claude Code](https://claude.com/claude-code) skills I use daily
 |---|---|
 | [audit-codebase-skill](https://github.com/alexadark/audit-codebase-skill) | Codebase health audit: AI-readiness scoring, bug detection (Assay), and optional Codex deep adversarial pass with synthesis. |
 | [plan-preview-skill](https://github.com/alexadark/plan-preview-skill) | Generate a standalone HTML preview of any project plan as a beautiful, navigable single-file document. |
+| [skill-creator-skill](https://github.com/alexadark/skill-creator-skill) | Create, iterate, and optimize Claude Code skills with eval benchmarking. Lean fork of Anthropic's skill creator. |
+| [review-skill-skill](https://github.com/alexadark/review-skill-skill) | Review and audit Claude Code skills for structure, effectiveness, and strategic design. |
 
 ### Content & media
 
