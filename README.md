@@ -12,6 +12,7 @@ A collection of [Claude Code](https://claude.com/claude-code) skills I use daily
 | [plan-preview-skill](https://github.com/alexadark/plan-preview-skill) | Generate a standalone HTML preview of any project plan as a beautiful, navigable single-file document. |
 | [skill-creator-skill](https://github.com/alexadark/skill-creator-skill) | Create, iterate, and optimize Claude Code skills with eval benchmarking. Lean fork of Anthropic's skill creator. |
 | [review-skill-skill](https://github.com/alexadark/review-skill-skill) | Review and audit Claude Code skills for structure, effectiveness, and strategic design. |
+| [efficient-delegation-skill](https://github.com/alexadark/efficient-delegation-skill) | Claude Code skill: keep frontier models on judgment-only work, route volume tasks to cheaper executors (Codex, Sonnet, Haiku). |
 
 ### Content & media
 
