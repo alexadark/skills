@@ -21,6 +21,7 @@ A collection of [Claude Code](https://claude.com/claude-code) skills I use daily
 | [media-extract-skill](https://github.com/alexadark/media-extract-skill) | Universal media extraction (YouTube, web, local files) with structured output for downstream skills. |
 | [video-animals](https://github.com/alexadark/video-animals) | Generate viral AI animal videos from text descriptions using Kie CLI. |
 | [post-social](https://github.com/alexadark/post-social) | Distribute video content to TikTok, Instagram, YouTube via Blotato MCP. |
+| [content-ideas-skill](https://github.com/alexadark/content-ideas-skill) | Turn a topic into a search-intent content plan and ship it as a shareable page via the ideas CLI and plan-preview. |
 
 ### Business & CRM
 
@@ -28,6 +29,16 @@ A collection of [Claude Code](https://claude.com/claude-code) skills I use daily
 |---|---|
 | [sales-call-skill](https://github.com/alexadark/sales-call-skill) | Sales call analysis and follow-up automation. |
 | [ghl-onboard-skill](https://github.com/alexadark/ghl-onboard-skill) | Onboard new clients into GoHighLevel CRM with welcome email, tags, pipeline opportunities, and follow-up tasks. |
+
+## CLI tools
+
+Standalone command-line tools, several wrapped into skills above.
+
+| CLI | Description |
+|---|---|
+| [ideas-cli](https://github.com/alexadark/ideas-cli) | Print Google autocomplete suggestions for a topic, one per line. No API key. Powers the content-ideas skill. |
+| [ghl-cli](https://github.com/alexadark/ghl-cli) | Command-line interface for GoHighLevel API v2. 17 command domains, 80+ operations. |
+| [kie-cli](https://github.com/alexadark/kie-cli) | CLI for Kie.AI, generate images and videos with Kling, Veo 3, and Nano Banana 2. |
 
 ## Installing a skill
 
