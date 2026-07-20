@@ -13,6 +13,7 @@ A collection of [Claude Code](https://claude.com/claude-code) skills I use daily
 | [skill-creator-skill](https://github.com/alexadark/skill-creator-skill) | Create, iterate, and optimize Claude Code skills with eval benchmarking. Lean fork of Anthropic's skill creator. |
 | [review-skill-skill](https://github.com/alexadark/review-skill-skill) | Review and audit Claude Code skills for structure, effectiveness, and strategic design. |
 | [efficient-delegation-skill](https://github.com/alexadark/efficient-delegation-skill) | Claude Code skill: keep frontier models on judgment-only work, route volume tasks to cheaper executors (Codex, Sonnet, Haiku). |
+| [garden-check-skill](https://github.com/alexadark/garden-check-skill) | Read-only audit of your Claude Code setup: dead file references, rules whose paths never match, orphaned memory entries, duplicated instructions. |
 
 ### Content & media
 
