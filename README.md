@@ -14,6 +14,7 @@ A collection of [Claude Code](https://claude.com/claude-code) skills I use daily
 | [review-skill-skill](https://github.com/alexadark/review-skill-skill) | Review and audit Claude Code skills for structure, effectiveness, and strategic design. |
 | [efficient-delegation-skill](https://github.com/alexadark/efficient-delegation-skill) | Claude Code skill: keep frontier models on judgment-only work, route volume tasks to cheaper executors (Codex, Sonnet, Haiku). |
 | [garden-check-skill](https://github.com/alexadark/garden-check-skill) | Read-only audit of your Claude Code setup: dead file references, rules whose paths never match, orphaned memory entries, duplicated instructions. |
+| [claude-api-skill](https://github.com/alexadark/claude-api-skill) | Lightweight replacement for Claude Code's built-in claude-api skill: ~1k tokens on trigger instead of ~340k, with model IDs and prices verified live. |
 
 ### Content & media
 
