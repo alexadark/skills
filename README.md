@@ -24,6 +24,7 @@ A collection of [Claude Code](https://claude.com/claude-code) skills I use daily
 | [video-animals](https://github.com/alexadark/video-animals) | Generate viral AI animal videos from text descriptions using Kie CLI. |
 | [post-social](https://github.com/alexadark/post-social) | Distribute video content to TikTok, Instagram, YouTube via Blotato MCP. |
 | [content-ideas-skill](https://github.com/alexadark/content-ideas-skill) | Turn a topic into a search-intent content plan and ship it as a shareable page via the ideas CLI and plan-preview. |
+| [compress-video-skill](https://github.com/alexadark/compress-video-skill) | Shrink a video to 480p with FFmpeg, hardware-accelerated on macOS. |
 
 ### Business & CRM
 
